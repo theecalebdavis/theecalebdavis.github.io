@@ -1,0 +1,41 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(Travel\ Pic.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+font-size: 3rem;
+color: #45889d;
+
+}
+
+hr {
+border-color: #27a1b6;
+border-width: 3px;
+max-width: 65px;
+}
+
+.btn {
+font-weight: 700;
+border-radius: 300px;
+}
+
+.btn-xl {
+padding: 1rem 2rem;
+
+}
+
+
+.btn-primary {	
+  background-color: #1c6876;	
+  border-color: #000000;	
+  --bs-btn-hover-bg: #000000;	
+  --bs-btn-hover-border-color: #000000;
+}
